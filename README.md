@@ -1,5 +1,7 @@
 ## Message Encryption and Decryption using Simple Substitution Cipher.
 
+#### Substitution Cipher
+
 Argument:
 ``` 
 m - plaintext/ciphertext string of characters
