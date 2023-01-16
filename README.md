@@ -1,6 +1,6 @@
 ## Message Encryption and Decryption using Simple Substitution Cipher.
 
-#### Substitution Cipher
+### Substitution Cipher
 
 Argument:
 ``` 
